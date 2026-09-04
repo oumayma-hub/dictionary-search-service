@@ -380,7 +380,7 @@ In a production environment, logging would typically be handled differently, wit
 
 # Design choices
 
-The choices made in this implementation are adapted to the scope of this exercise. A production-scale system would require additional considerations such as scalability, deployment, monitoring, and distributed architecture, which would be addressed in the second part of the exercise.
+The choices made in this implementation are adapted to the scope of this exercise. A production-scale system would require additional considerations such as scalability, deployment, monitoring, and distributed architecture.
 
 The project separates responsibilities:
 
